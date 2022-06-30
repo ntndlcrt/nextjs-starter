@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "baseUrl": ".",
+        "paths": {
+            "@/styles/*": ["styles/*"],
+            "@/atoms/*": ["src/components/atoms/*"],
+            "@/molecules/*": ["src/components/molecules/*"]
+        }
+    }
+}
