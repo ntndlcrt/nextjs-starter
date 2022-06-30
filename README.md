@@ -8,19 +8,15 @@ First, run the development server:
 
 ```bash
 npm install
-
 # or
-
 yarn
 ```
 
-The, run the server command :
+Then, run the server command :
 
 ```bash
 npm run dev
-
 #or
-
 yarn dev
 ```
 
